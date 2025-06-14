@@ -17,3 +17,10 @@ Add this path to the User Environment Variables :
 3. Click on "Environment Variables.."
 4. Under "User variables for [your_username]", scroll to the path variable and click edit.
 5. Click on "New" and add the Custom-Terminal_Commands path here
+
+## **Commands :**
+
+#### 1. ascii :
+Converts the image file you have into ascii art and prints it onto the screen. It has params such as ```--file``` for the file name, ```--scale``` for the scale of the image generated, ```--cols``` which controls the width and ```--morelevels``` for more icons in the ascii generation.\
+\
+Hence, the command to use it would be as follows : ```ascii --file <filepath>``` where the other params are optional.
