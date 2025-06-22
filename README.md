@@ -1,6 +1,6 @@
 # Custom-Terminal-Commands
 ## **Introduction :**
-This project uses a ```.bat``` script to run custom terminal commands on **Windows**. The batch file is designed to execute a specific Python script or other executable files with ease.
+This project uses a  ```.bat``` script to run custom terminal commands on **Windows**. The batch file is designed to execute a specific Python script or other executable files with ease.
 
 ## **Installation :**
 
